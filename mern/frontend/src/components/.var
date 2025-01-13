@@ -1,6 +1,6 @@
 // src/config.js
 const config = {
-  BASE_URL: "http://<your-server-ip>:5050", // Replace <your-server-ip> with the actual IP
+  BASE_URL: "http://13.234.232.53:5050", // Replace <your-server-ip> with the actual IP
 };
 
 export default config;
